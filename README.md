@@ -71,8 +71,9 @@ graph TD
     end
 
     subgraph D [Roo Code Hands-on]
-        E1["Roo Code Overview and Setup (10min)"]
-        E2["Text Place Holder (15min)"]
-        E3["Text Place Holder (15min)"]
+        D1["Roo Code Overview and Setup (10min)"]
+        D2["Have Roo implement from scratch (20min)"]
+        D3["Roo's code analysis (10min)"]
+        D4["Advanced Tips (5min)"]
     end
 ```
